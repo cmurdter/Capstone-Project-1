@@ -1,4 +1,4 @@
-# Capstone-Project-1
+# Detecting Ships in Satellite Images Using Machine Learning
 Springboard Capstone Project 1 2019
 
 
